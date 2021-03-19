@@ -1,0 +1,39 @@
+
+
+
+
+
+body {
+	background-color: red;
+
+
+}
+
+
+.body {
+	width: 60%;
+	margin: auto;
+	background-color: white;
+	padding: 0 190px 0 190px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+img {
+
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin: auto;
+
+}
